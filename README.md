@@ -11,9 +11,10 @@ A sleek, responsive, and customizable **Password Generator** built using HTML, C
 * 🗌 One-click copy to clipboard
 * 💅 Beautiful glassmorphism UI with modern gradients and transitions
 
-## 🖼 Preview
 
-![Password Generator Preview](./assets/preview.png) <!-- Add screenshot or remove this line -->
+## 🔗 Live Demo
+
+[Click here to view the app](https://sumitksr.github.io/Password-Genrator/)
 
 ## 🛠 Technologies Used
 
@@ -84,10 +85,8 @@ No installations or dependencies required.
 * Fonts from [Google Fonts](https://fonts.google.com/).
 * Icons from [Feather Icons](https://feathericons.com/).
 
-## ✨ License
 
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> Created with ❤️ by [Your Name](https://github.com/your-username)
+> Created with ❤️ by [Your Name](https://github.com/sumitksr)
